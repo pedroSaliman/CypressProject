@@ -1,0 +1,4 @@
+{
+  "defaultCommandTimeout": 8000,
+  "reporter":"mochawesome"
+}
